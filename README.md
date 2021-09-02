@@ -1,0 +1,2 @@
+# GitConsoleApp
+*** My VS REPO ***
